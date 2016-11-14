@@ -44,7 +44,7 @@ CREATED BY: NICK FISCH
 
 Extract_all_waterdata_code.R 
 
-- Master water data extraction code. Extracted water data from watrData package in R and summarized for use in master analyses code. 
+- Master water data extraction code. Extracted water data from waterData package in R and summarized for use in master analyses code. 
 -----------------------------------------------------------------------------------------------------
 
 Full correlations all variables.R 
